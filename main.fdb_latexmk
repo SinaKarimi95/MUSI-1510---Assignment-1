@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1709116244.63742 "main.bcf" "main.bbl" "main" 1709116246.82331 0
-  "main.bcf" 1709116246 159726 8ff01e8cbfd8a34d539794ab227c9e17 "pdflatex"
+["biber main"] 1709116244.63742 "main.bcf" "main.bbl" "main" 1709116822.61001 0
+  "main.bcf" 1709116822 159726 8ff01e8cbfd8a34d539794ab227c9e17 "pdflatex"
   "references.bib" 1709114800 2140 2df5685db5a4fb2aaa5874c7a7197a23 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1709116246.0444 "d:/LaTeX/Academic Paper with Figure Included/main.tex" "main.pdf" "main" 1709116246.82377 0
+["pdflatex"] 1709116821.83422 "d:/LaTeX/Academic Paper with Figure Included/main.tex" "main.pdf" "main" 1709116822.61058 0
   "C:/Users/sinak/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1709105278 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/sinak/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1709103662 24225046 d9a40788e6780a1238db2e320d3cbb4c ""
   "C:/Users/sinak/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -85,12 +85,12 @@
   "Parts/partA.tex" 1709108065 2404 f5ed9edfb9483738682334abc65ec289 ""
   "Parts/partB.tex" 1709115333 2936 581945abea82ac8c91af606270324beb ""
   "Parts/partC.tex" 1709116011 3719 ffe1d28f0ef63d3e7273427861b2c9d7 ""
-  "d:/LaTeX/Academic Paper with Figure Included/main.tex" 1709116243 505 3f761469fa9d152dc51b18032fefee19 ""
-  "main.aux" 1709116246 3126 17e6a2c1bdf9d52eda643c961732c75d "pdflatex"
+  "d:/LaTeX/Academic Paper with Figure Included/main.tex" 1709116821 505 3f761469fa9d152dc51b18032fefee19 ""
+  "main.aux" 1709116822 3126 17e6a2c1bdf9d52eda643c961732c75d "pdflatex"
   "main.bbl" 1709116246 6317 55462686b78245d0f951d15074c97d8a "biber main"
-  "main.run.xml" 1709116246 2353 af55cdc5262f19b8d2901693de48315a "pdflatex"
-  "main.tex" 1709116243 505 3f761469fa9d152dc51b18032fefee19 ""
-  "main.toc" 1709116246 1238 069d669a5bf077c85c78c9a965827a77 "pdflatex"
+  "main.run.xml" 1709116822 2353 af55cdc5262f19b8d2901693de48315a "pdflatex"
+  "main.tex" 1709116821 505 3f761469fa9d152dc51b18032fefee19 ""
+  "main.toc" 1709116822 1238 069d669a5bf077c85c78c9a965827a77 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
