@@ -4,6 +4,7 @@
 \contentsline {subsection}{Chapter Selection Rationale}{3}{}%
 \contentsline {subsection}{Summary of Main Ideas}{3}{}%
 \contentsline {subsection}{Reaction to Musical Examples}{3}{}%
-\contentsline {subsection}{Strong Reaction to Example}{3}{}%
+\contentsline {subsection}{Strong Reaction to Example}{4}{}%
 \contentsline {subsection}{Likelihood of Listening Again}{4}{}%
 \contentsline {section}{Part C: Performance Report/Reflection}{5}{}%
+\contentsline {subsection}{}{5}{}%

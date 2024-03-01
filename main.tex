@@ -2,8 +2,10 @@
 
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
-\usepackage{csquotes, booktabs, array}
-\usepackage[notes,backend=biber]{biblatex-chicago}
+\usepackage{csquotes, booktabs, array, biblatex-chicago}
+
+\let\oldautocite\autocite
+\renewcommand{\autocite}[1]{\cite{#1}}
 
 \addbibresource{references.bib}
 
