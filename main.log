@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.2.28)  28 FEB 2024 19:35
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.2.29)  29 FEB 2024 22:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **"d:/LaTeX/Academic Paper with Figure Included/main.tex"
 (d:/LaTeX/Academic Paper with Figure Included/main.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
+L3 programming layer <2024-02-20>
 
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/turabian-formatting\tur
 abian-researchpaper.cls
@@ -15,14 +15,14 @@ Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count183
-\c@section=\count184
-\c@subsection=\count185
-\c@subsubsection=\count186
-\c@paragraph=\count187
-\c@subparagraph=\count188
-\c@figure=\count189
-\c@table=\count190
+\c@part=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
+\c@figure=\count190
+\c@table=\count191
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
@@ -33,7 +33,7 @@ Package: turabian-formatting 2021/03/20 Turabian Formatting
 
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count191
+\etb@tempcnta=\count192
 )
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
@@ -57,14 +57,14 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 765
 ))
 \tf@ssectafterskip=\skip52
 ) (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2024/01/07 v24.1 The Babel package
-\babel@savecnt=\count192
+Package: babel 2024/02/07 v24.2 The Babel package
+\babel@savecnt=\count193
 \U@D=\dimen143
 \l@unhyphenated=\language79
 
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/generic/babel\xebabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count193
+\bbl@dirlevel=\count194
 
 *************************************
 * Local config file bblopts.cfg used
@@ -102,12 +102,12 @@ Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks20
 )
-\csq@reset=\count194
-\csq@gtype=\count195
-\csq@glevel=\count196
-\csq@qlevel=\count197
-\csq@maxlvl=\count198
-\csq@tshold=\count199
+\csq@reset=\count195
+\csq@gtype=\count196
+\csq@glevel=\count197
+\csq@qlevel=\count198
+\csq@maxlvl=\count199
+\csq@tshold=\count266
 \csq@ltx@everypar=\toks21
 
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
@@ -118,7 +118,36 @@ Package csquotes Info: ... configuration file loaded successfully.
 
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
-))
+)) (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.st
+y
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen144
+\lightrulewidth=\dimen145
+\cmidrulewidth=\dimen146
+\belowrulesep=\dimen147
+\belowbottomsep=\dimen148
+\aboverulesep=\dimen149
+\abovetopsep=\dimen150
+\cmidrulesep=\dimen151
+\cmidrulekern=\dimen152
+\defaultaddspace=\dimen153
+\@cmidla=\count267
+\@cmidlb=\count268
+\@aboverulesep=\dimen154
+\@belowrulesep=\dimen155
+\@thisruleclass=\count269
+\@lastruleclass=\count270
+\@thisrulewidth=\dimen156
+) (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen157
+\ar@mcellbox=\box51
+\extrarowheight=\dimen158
+\NC@list=\toks22
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box52
+)
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-chicago\biblat
 ex-chicago.sty
 Package: biblatex-chicago 2022/07/02 v 3.18 biblatex style
@@ -146,12 +175,12 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )))
-\c@section@level=\count266
+\c@section@level=\count271
 )
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
-\xs_counta=\count267
-\xs_countb=\count268
+\xs_counta=\count272
+\xs_countb=\count273
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 ) (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
@@ -169,7 +198,7 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
 ) (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count269
+\lrq@indent=\count274
 
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -181,63 +210,63 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count270
-\c@listtotal=\count271
-\c@listcount=\count272
-\c@liststart=\count273
-\c@liststop=\count274
-\c@citecount=\count275
-\c@citetotal=\count276
-\c@multicitecount=\count277
-\c@multicitetotal=\count278
-\c@instcount=\count279
-\c@maxnames=\count280
-\c@minnames=\count281
-\c@maxitems=\count282
-\c@minitems=\count283
-\c@citecounter=\count284
-\c@maxcitecounter=\count285
-\c@savedcitecounter=\count286
-\c@uniquelist=\count287
-\c@uniquename=\count288
-\c@refsection=\count289
-\c@refsegment=\count290
-\c@maxextratitle=\count291
-\c@maxextratitleyear=\count292
-\c@maxextraname=\count293
-\c@maxextradate=\count294
-\c@maxextraalpha=\count295
-\c@abbrvpenalty=\count296
-\c@highnamepenalty=\count297
-\c@lownamepenalty=\count298
-\c@maxparens=\count299
-\c@parenlevel=\count300
-\blx@tempcnta=\count301
-\blx@tempcntb=\count302
-\blx@tempcntc=\count303
-\c@blx@maxsection=\count304
-\blx@maxsegment@0=\count305
-\blx@notetype=\count306
-\blx@parenlevel@text=\count307
-\blx@parenlevel@foot=\count308
-\blx@sectionciteorder@0=\count309
-\blx@sectionciteorderinternal@0=\count310
-\blx@entrysetcounter=\count311
-\blx@biblioinstance=\count312
-\labelnumberwidth=\skip53
-\labelalphawidth=\skip54
-\biblabelsep=\skip55
-\bibitemsep=\skip56
-\bibnamesep=\skip57
-\bibinitsep=\skip58
-\bibparsep=\skip59
-\bibhang=\skip60
+\c@tabx@nest=\count275
+\c@listtotal=\count276
+\c@listcount=\count277
+\c@liststart=\count278
+\c@liststop=\count279
+\c@citecount=\count280
+\c@citetotal=\count281
+\c@multicitecount=\count282
+\c@multicitetotal=\count283
+\c@instcount=\count284
+\c@maxnames=\count285
+\c@minnames=\count286
+\c@maxitems=\count287
+\c@minitems=\count288
+\c@citecounter=\count289
+\c@maxcitecounter=\count290
+\c@savedcitecounter=\count291
+\c@uniquelist=\count292
+\c@uniquename=\count293
+\c@refsection=\count294
+\c@refsegment=\count295
+\c@maxextratitle=\count296
+\c@maxextratitleyear=\count297
+\c@maxextraname=\count298
+\c@maxextradate=\count299
+\c@maxextraalpha=\count300
+\c@abbrvpenalty=\count301
+\c@highnamepenalty=\count302
+\c@lownamepenalty=\count303
+\c@maxparens=\count304
+\c@parenlevel=\count305
+\blx@tempcnta=\count306
+\blx@tempcntb=\count307
+\blx@tempcntc=\count308
+\c@blx@maxsection=\count309
+\blx@maxsegment@0=\count310
+\blx@notetype=\count311
+\blx@parenlevel@text=\count312
+\blx@parenlevel@foot=\count313
+\blx@sectionciteorder@0=\count314
+\blx@sectionciteorderinternal@0=\count315
+\blx@entrysetcounter=\count316
+\blx@biblioinstance=\count317
+\labelnumberwidth=\skip55
+\labelalphawidth=\skip56
+\biblabelsep=\skip57
+\bibitemsep=\skip58
+\bibnamesep=\skip59
+\bibinitsep=\skip60
+\bibparsep=\skip61
+\bibhang=\skip62
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language80
-\c@mincomprange=\count313
-\c@maxcomprange=\count314
-\c@mincompwidth=\count315
+\c@mincomprange=\count318
+\c@maxcomprange=\count319
+\c@mincompwidth=\count320
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -248,88 +277,88 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'chicago-notes.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count316
-\c@savedafterword=\count317
-\c@annotator=\count318
-\c@savedannotator=\count319
-\c@author=\count320
-\c@savedauthor=\count321
-\c@bookauthor=\count322
-\c@savedbookauthor=\count323
-\c@commentator=\count324
-\c@savedcommentator=\count325
-\c@editor=\count326
-\c@savededitor=\count327
-\c@editora=\count328
-\c@savededitora=\count329
-\c@editorb=\count330
-\c@savededitorb=\count331
-\c@editorc=\count332
-\c@savededitorc=\count333
-\c@foreword=\count334
-\c@savedforeword=\count335
-\c@holder=\count336
-\c@savedholder=\count337
-\c@introduction=\count338
-\c@savedintroduction=\count339
-\c@namea=\count340
-\c@savednamea=\count341
-\c@nameb=\count342
-\c@savednameb=\count343
-\c@namec=\count344
-\c@savednamec=\count345
-\c@translator=\count346
-\c@savedtranslator=\count347
-\c@shortauthor=\count348
-\c@savedshortauthor=\count349
-\c@shorteditor=\count350
-\c@savedshorteditor=\count351
-\c@labelname=\count352
-\c@savedlabelname=\count353
-\c@institution=\count354
-\c@savedinstitution=\count355
-\c@lista=\count356
-\c@savedlista=\count357
-\c@listb=\count358
-\c@savedlistb=\count359
-\c@listc=\count360
-\c@savedlistc=\count361
-\c@listd=\count362
-\c@savedlistd=\count363
-\c@liste=\count364
-\c@savedliste=\count365
-\c@listf=\count366
-\c@savedlistf=\count367
-\c@location=\count368
-\c@savedlocation=\count369
-\c@organization=\count370
-\c@savedorganization=\count371
-\c@origlocation=\count372
-\c@savedoriglocation=\count373
-\c@origpublisher=\count374
-\c@savedorigpublisher=\count375
-\c@publisher=\count376
-\c@savedpublisher=\count377
-\c@language=\count378
-\c@savedlanguage=\count379
-\c@origlanguage=\count380
-\c@savedoriglanguage=\count381
-\c@pageref=\count382
-\c@savedpageref=\count383
-\shorthandwidth=\skip61
-\shortjournalwidth=\skip62
-\shortserieswidth=\skip63
-\shorttitlewidth=\skip64
-\shortauthorwidth=\skip65
-\shorteditorwidth=\skip66
-\locallabelnumberwidth=\skip67
-\locallabelalphawidth=\skip68
-\localshorthandwidth=\skip69
-\localshortjournalwidth=\skip70
-\localshortserieswidth=\skip71
-\localshorttitlewidth=\skip72
-\localshortauthorwidth=\skip73
-\localshorteditorwidth=\skip74
+\c@afterword=\count321
+\c@savedafterword=\count322
+\c@annotator=\count323
+\c@savedannotator=\count324
+\c@author=\count325
+\c@savedauthor=\count326
+\c@bookauthor=\count327
+\c@savedbookauthor=\count328
+\c@commentator=\count329
+\c@savedcommentator=\count330
+\c@editor=\count331
+\c@savededitor=\count332
+\c@editora=\count333
+\c@savededitora=\count334
+\c@editorb=\count335
+\c@savededitorb=\count336
+\c@editorc=\count337
+\c@savededitorc=\count338
+\c@foreword=\count339
+\c@savedforeword=\count340
+\c@holder=\count341
+\c@savedholder=\count342
+\c@introduction=\count343
+\c@savedintroduction=\count344
+\c@namea=\count345
+\c@savednamea=\count346
+\c@nameb=\count347
+\c@savednameb=\count348
+\c@namec=\count349
+\c@savednamec=\count350
+\c@translator=\count351
+\c@savedtranslator=\count352
+\c@shortauthor=\count353
+\c@savedshortauthor=\count354
+\c@shorteditor=\count355
+\c@savedshorteditor=\count356
+\c@labelname=\count357
+\c@savedlabelname=\count358
+\c@institution=\count359
+\c@savedinstitution=\count360
+\c@lista=\count361
+\c@savedlista=\count362
+\c@listb=\count363
+\c@savedlistb=\count364
+\c@listc=\count365
+\c@savedlistc=\count366
+\c@listd=\count367
+\c@savedlistd=\count368
+\c@liste=\count369
+\c@savedliste=\count370
+\c@listf=\count371
+\c@savedlistf=\count372
+\c@location=\count373
+\c@savedlocation=\count374
+\c@organization=\count375
+\c@savedorganization=\count376
+\c@origlocation=\count377
+\c@savedoriglocation=\count378
+\c@origpublisher=\count379
+\c@savedorigpublisher=\count380
+\c@publisher=\count381
+\c@savedpublisher=\count382
+\c@language=\count383
+\c@savedlanguage=\count384
+\c@origlanguage=\count385
+\c@savedoriglanguage=\count386
+\c@pageref=\count387
+\c@savedpageref=\count388
+\shorthandwidth=\skip63
+\shortjournalwidth=\skip64
+\shortserieswidth=\skip65
+\shorttitlewidth=\skip66
+\shortauthorwidth=\skip67
+\shorteditorwidth=\skip68
+\locallabelnumberwidth=\skip69
+\locallabelalphawidth=\skip70
+\localshorthandwidth=\skip71
+\localshortjournalwidth=\skip72
+\localshortserieswidth=\skip73
+\localshorttitlewidth=\skip74
+\localshortauthorwidth=\skip75
+\localshorteditorwidth=\skip76
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
 
@@ -345,19 +374,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count384
-\c@textcitetotal=\count385
-\c@textcitemaxnames=\count386
-\c@biburlbigbreakpenalty=\count387
-\c@biburlbreakpenalty=\count388
-\c@biburlnumpenalty=\count389
-\c@biburlucpenalty=\count390
-\c@biburllcpenalty=\count391
+\c@textcitecount=\count389
+\c@textcitetotal=\count390
+\c@textcitemaxnames=\count391
+\c@biburlbigbreakpenalty=\count392
+\c@biburlbreakpenalty=\count393
+\c@biburlnumpenalty=\count394
+\c@biburlucpenalty=\count395
+\c@biburllcpenalty=\count396
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count392
+\c@smartand=\count397
 )
 Package biblatex Info: Trying to load bibliography style 'chicago-notes'...
 Package biblatex Info: ... file 'chicago-notes.bbx' found.
@@ -365,15 +394,15 @@ Package biblatex Info: ... file 'chicago-notes.bbx' found.
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-chicago\chicag
 o-notes.bbx
 File: chicago-notes.bbx 2022/11/17 v 3.18b biblatex bibliography style
-\lositemsep=\skip75
+\lositemsep=\skip77
 Package biblatex Info: Delimiter 'revsdnamedelim' in context '' already defined
 , overwriting.
-\cms@tempcnta=\count393
-\cms@tempcntb=\count394
-\c@bbx:relatedcount=\count395
-\c@bbx:relatedtotal=\count396
-\c@cms@reviewcount=\count397
-\c@cms@currentnote=\count398
+\cms@tempcnta=\count398
+\cms@tempcntb=\count399
+\c@bbx:relatedcount=\count400
+\c@bbx:relatedtotal=\count401
+\c@cms@reviewcount=\count402
+\c@cms@currentnote=\count403
 )
 Package biblatex Info: Trying to load citation style 'chicago-notes'...
 Package biblatex Info: ... file 'chicago-notes.cbx' found.
@@ -392,7 +421,7 @@ Package biblatex Info: Redefining '\citeincitef'.
 Package biblatex Info: Redefining '\citeauthor'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
-\c@cms@punct=\count399
+\c@cms@punct=\count404
 Package biblatex Info: Delimiter 'dateeradelim' in context '' already defined, 
 overwriting.
 )
@@ -407,19 +436,19 @@ Package biblatex Info: XeTeX detected.
 Package biblatex Info: Document encoding is UTF8 ....
 
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2024-01-04 L3 programming layer (loader) 
+Package: expl3 2024-02-20 L3 programming layer (loader) 
 
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
 ex.def
-File: l3backend-xetex.def 2024-01-04 L3 backend support: XeTeX
-\g__graphics_track_int=\count400
-\l__pdf_internal_box=\box51
-\g__pdf_backend_object_int=\count401
-\g__pdf_backend_annotation_int=\count402
-\g__pdf_backend_link_int=\count403
+File: l3backend-xetex.def 2024-02-20 L3 backend support: XeTeX
+\g__graphics_track_int=\count405
+\l__pdf_internal_box=\box53
+\g__pdf_backend_object_int=\count406
+\g__pdf_backend_annotation_int=\count407
+\g__pdf_backend_link_int=\count408
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2024-01-04 L3 programming layer (loader) 
+(biblatex)             2024-02-20 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
@@ -427,40 +456,10 @@ Package biblatex Info: ... and expl3
 .sty
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
 e.sty
-Package: xparse 2023-10-10 L3 Experimental document command parser
+Package: xparse 2024-02-18 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 )))
-(C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
-Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen144
-\lightrulewidth=\dimen145
-\cmidrulewidth=\dimen146
-\belowrulesep=\dimen147
-\belowbottomsep=\dimen148
-\aboverulesep=\dimen149
-\abovetopsep=\dimen150
-\cmidrulesep=\dimen151
-\cmidrulekern=\dimen152
-\defaultaddspace=\dimen153
-\@cmidla=\count404
-\@cmidlb=\count405
-\@aboverulesep=\dimen154
-\@belowrulesep=\dimen155
-\@thisruleclass=\count406
-\@lastruleclass=\count407
-\@thisrulewidth=\dimen156
-)
-(C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen157
-\ar@mcellbox=\box52
-\extrarowheight=\dimen158
-\NC@list=\toks22
-\extratabsurround=\skip76
-\backup@length=\skip77
-\ar@cellbox=\box53
-)
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/nowidow\nowidow.sty
 Package: nowidow 2011/09/20 1.0 Easily prevent widows and orphans
 Package: nowidow 
@@ -473,28 +472,28 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
 (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-4.
+5.
 
 (C:\Users\sinak\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 Package biblatex Info: Trying to load language 'english' -> 'cms-american'...
 Package biblatex Info: ... file 'cms-american.lbx' found.
 
@@ -530,8 +529,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 14.
-Package biblatex Info: Reference segment=0 on input line 14.
+Package biblatex Info: Reference section=0 on input line 15.
+Package biblatex Info: Reference segment=0 on input line 15.
  [1
 
 ] (main.toc)
@@ -548,40 +547,39 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
 ) [2] (Parts/partB.tex
+[3]) [4] (Parts/partC.tex [5]) [6]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 7.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 7.
-
-[3]) [4] (Parts/partC.tex
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'reynolds' on input line 16.
-
-[5] [6]) [7]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 28.
+(Font)              <12> on input line 31.
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'reynolds' on input line 28.
+(biblatex)                at entry 'reynolds' on input line 31.
 
-[8] (main.aux)
+[7] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
+L3 programming layer <2024-02-20>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13560 strings out of 409617
- 267670 string characters out of 5774013
- 1935191 words of memory out of 5000000
- 35538 multiletter control sequences out of 15000+600000
- 561793 words of font info for 57 fonts, out of 8000000 for 9000
+ 13537 strings out of 409588
+ 267221 string characters out of 5773012
+ 1930842 words of memory out of 5000000
+ 35548 multiletter control sequences out of 15000+600000
+ 561769 words of font info for 54 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 84i,10n,95p,724b,4600s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,10n,95p,914b,4596s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (9 pages).
+Output written on main.pdf (8 pages).

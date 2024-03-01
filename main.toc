@@ -4,19 +4,6 @@
 \contentsline {subsection}{Chapter Selection Rationale}{3}{}%
 \contentsline {subsection}{Summary of Main Ideas}{3}{}%
 \contentsline {subsection}{Reaction to Musical Examples}{3}{}%
-\contentsline {subsection}{Strong Reaction to Example}{4}{}%
+\contentsline {subsection}{Strong Reaction to Example}{3}{}%
 \contentsline {subsection}{Likelihood of Listening Again}{4}{}%
 \contentsline {section}{Part C: Performance Report/Reflection}{5}{}%
-\contentsline {subsection}{Pink Floyd Concert: A Progressive Odyssey}{5}{}%
-\contentsline {paragraph}{Venue and Date}{5}{}%
-\contentsline {paragraph}{Genre and Performers}{5}{}%
-\contentsline {paragraph}{Musical Elements}{5}{}%
-\contentsline {paragraph}{Peer-reviewed Reference}{6}{}%
-\contentsline {paragraph}{Audience Reaction}{6}{}%
-\contentsline {subsection}{Hans Zimmer Concert: A Cinematic Overture}{6}{}%
-\contentsline {paragraph}{Venue and Date}{6}{}%
-\contentsline {paragraph}{Genre and Performers}{6}{}%
-\contentsline {paragraph}{Musical Elements}{6}{}%
-\contentsline {paragraph}{Peer-reviewed Reference}{7}{}%
-\contentsline {paragraph}{Audience Reaction}{7}{}%
-\contentsline {subsection}{Summary}{7}{}%
